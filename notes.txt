@@ -1,0 +1,3 @@
+Python notes:-
+In python,curly braces are used to define a data structure called a dictionary(a key/value mapping), while white space indentation is used to define program blocks.
+In programming, whitespace refers to any nonprinting characters, such as tabs, spaces and end-of-line symbols. Adding whitespaces with tabs or newlines.
